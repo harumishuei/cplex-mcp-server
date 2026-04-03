@@ -1,0 +1,7 @@
+# MCP Framework
+fastmcp>=0.1.0
+
+# IBM CPLEX Python API (required)
+docplex>=2.25.236
+
+# Python 3.11+ required
